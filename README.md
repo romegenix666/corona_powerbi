@@ -26,3 +26,6 @@ I have used power bi as well as dev ops to deploy this project , first i used my
 
 # Project link
 https://drive.google.com/file/d/1A8dI5zFYqaOCwFnAyp6yJZsRqgOlzbGF/view?usp=share_link
+
+# Project information
+https://drive.google.com/file/d/1iXnuDoD0I8o7OxZgTJYkmaSe_8_L4Izy/view?usp=share_link
