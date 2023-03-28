@@ -4,8 +4,8 @@
               As you know, Coronavirus is a pandemic disease. It is spreading in almost every country, and people are locked down in their houses. Recently, India entered in 21 days total lockdown due to an increase in Coronavirus cases.
 
 
-        
- 
+#DEVOPS 
+https://dev.azure.com/vanshverma3108/HR%20analytics/_git/HR%20analytics
 
  # HR ANALYTICS USING POWERBI
 ![coronavirus5](https://user-images.githubusercontent.com/126977380/228224599-27d371ee-05e8-4255-a671-9a58fe2ce12d.png)
