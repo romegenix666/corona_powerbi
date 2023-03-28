@@ -24,3 +24,5 @@ I have used power bi as well as dev ops to deploy this project , first i used my
 
 ![Screenshot (874)](https://user-images.githubusercontent.com/126977380/228234742-3908e416-f0c4-4363-b2b5-ca01c3f7ab4c.png)
 
+# Project link
+https://drive.google.com/file/d/1A8dI5zFYqaOCwFnAyp6yJZsRqgOlzbGF/view?usp=share_link
